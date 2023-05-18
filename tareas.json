@@ -1,0 +1,18 @@
+[
+   {
+      "titulo": "popo",
+      "estado": "terminado"
+   },
+   {
+      "titulo": "ir al toilet",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "limpiar eso que dejaste",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "limpiar eso que dejaste2",
+      "estado": "pendiente"
+   }
+]
